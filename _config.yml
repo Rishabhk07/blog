@@ -35,15 +35,15 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Home
-    url: baseurl: /
+    url:  /
     external: false
     icon: home
   - title: Featured Posts
-    url: baseurl: /featured
+    url:  /featured
   - title: Categories
-    url: baseurl: /categories
+    url:  /categories
   - title: About
-    url: baseurl: /about
+    url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/India
